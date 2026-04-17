@@ -172,7 +172,7 @@ The community must eventually connect to revenue — otherwise it will lose inte
 
 **Mac Reddin's position (Scale):**
 Mac argues that community-led growth only becomes a meaningful GTM lever when it reaches significant scale. The network effects of CLG compound with size — more members means more referrals, more content, and more social proof. He built Commsor's community strategy around growing networks intentionally to unlock commercial value.
-Source: Mac Reddin, Commsor — [commsor.com](https://www.commsor.com)
+Source: Mac Reddin, Commsor — [commsor.com](https://www.commsor.com/post/lessons-about-sales-networking)
 
 **Rosie Sherry's position (Depth):**
 Rosie argues that depth of connection — not member count — is what makes a community valuable. She built communities at Indie Hackers and Ministry of Testing by focusing on a small, highly engaged core. A community of 200 people who deeply trust each other is worth more than 20,000 passive members.
@@ -187,7 +187,7 @@ Rosie is right for early-stage B2B SaaS. Depth first, then scale. A community wi
 
 **Mary Thengvall's position (Structured):**
 Mary emphasises building communities with clear strategy, community health metrics, and business alignment from the start. Without structure, communities drift from business goals and become hard to defend internally.
-Source: Mary Thengvall — [marythengvall.com](https://www.marythengvall.com) | Community Pulse Podcast — [communitypulse.io](https://www.communitypulse.io/hosts/mary-thengvall)
+Source: Mary Thengvall — [marythengvall.com](https://www.marythengvall.com/blog/2020/12/14/first-understand-the-company-goals) | Community Pulse Podcast — [communitypulse.io](https://www.communitypulse.io/hosts/mary-thengvall)
 
 **Rosie Sherry's position (Organic):**
 Rosie's practitioner-first approach resists over-structuring early communities. Too many rules, formats, and programmes before critical mass can make a community feel corporate and kill authentic participation.
@@ -206,7 +206,7 @@ Source: Mac Reddin, Commsor — [LinkedIn](https://www.linkedin.com/in/mac-reddi
 
 **Mary Thengvall's position (Health):**
 Mary warns that over-commercialising a community kills the trust that makes it valuable in the first place. Community health metrics (engagement quality, member satisfaction, psychological safety) are leading indicators of business outcomes — and they must be protected.
-Source: Mary Thengvall — [marythengvall.com](https://www.marythengvall.com)
+Source: Mary Thengvall — [marythengvall.com](https://www.marythengvall.com/blog/2020/12/14/first-understand-the-company-goals)
 
 **My position:**
 A hybrid approach is correct — but with sequencing. In months 1–6, optimise for health. From month 6 onward, start connecting health metrics to business outcomes and build the influence attribution model. Presenting ROI too early, before trust is established, will corrupt the community's culture. But ignoring ROI entirely will kill the budget.
@@ -241,7 +241,7 @@ Incentivised growth brings in low-quality members who joined for the reward, not
 Automation removes the human signal that early community members are most sensitive to. When a new member joins and receives an automated message, they know — and it tells them the community does not care about them as an individual. The first 6 months of a community are trust-formation months. Trust requires humans.
 
 > Mary Thengvall's research on community health shows that authentic individual recognition and human responsiveness are the foundation of healthy communities. Automating these interactions early is a structural mistake.
-> Source: Mary Thengvall — [marythengvall.com](https://www.marythengvall.com)
+> Source: Mary Thengvall — [marythengvall.com](https://www.marythengvall.com/blog)
 
 **Decision:** No automation in months 1–6. Introduce selective automation (welcome messages, milestone triggers) only after 500+ active members, and only for operational tasks — never for relationship-building interactions.
 
