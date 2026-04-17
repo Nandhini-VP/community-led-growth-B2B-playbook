@@ -1,7 +1,9 @@
 # Community-Led Growth (CLG) Playbook for B2B SaaS
 
 **Author:** Nandhini VP
+
 **Last Updated:** April 2026
+
 **Purpose:** A practical, research-backed SOP for building community-led growth into a B2B SaaS go-to-market strategy.
 
 ---
